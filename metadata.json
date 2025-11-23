@@ -1,0 +1,5 @@
+{
+  "name": "Project Illumio",
+  "description": "A next-generation AI video studio powered by Gemini Nano Banana for images and Veo for video generation.",
+  "requestFramePermissions": []
+}
